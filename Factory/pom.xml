@@ -8,10 +8,13 @@
         <groupId>ru.javalaboratory</groupId>
         <artifactId>design-patterns</artifactId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../</relativePath>
     </parent>
+    
+    <name>Factory</name>
 
-    <groupId>ru.javalaboratory</groupId>
-    <artifactId>Factory</artifactId>
+    <groupId>ru.javalaboratory.dp</groupId>
+    <artifactId>factory</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     
